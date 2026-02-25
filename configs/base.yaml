@@ -1,0 +1,6 @@
+project_name: FBA_a-KIV
+default_model: iML1515
+comparator_model: iJO1366
+seed: 42
+output_root: results
+max_workers: 2

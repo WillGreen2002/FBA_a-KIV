@@ -1,0 +1,14 @@
+medium:
+  EX_glc__D_e: 0.0
+  EX_nh4_e: -10.0
+  EX_pi_e: -10.0
+  EX_so4_e: -10.0
+  EX_k_e: -1000.0
+  EX_na1_e: -1000.0
+  EX_h_e: -1000.0
+  EX_h2o_e: -1000.0
+  EX_o2_e: -18.5
+  EX_co2_e: 1000.0
+  EX_lac__L_e: 0.0
+  EX_lac__D_e: 0.0
+atp_maintenance_override: null
