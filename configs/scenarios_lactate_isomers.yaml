@@ -1,0 +1,7 @@
+lactate_scenarios:
+  L_only:
+    EX_lac__L_e: -10.0
+    EX_lac__D_e: 0.0
+  racemate_50_50:
+    EX_lac__L_e: -5.0
+    EX_lac__D_e: -5.0

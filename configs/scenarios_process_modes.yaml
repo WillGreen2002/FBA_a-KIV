@@ -1,0 +1,11 @@
+process_modes:
+  constant_aerobic:
+    oxygen_bound: -18.5
+    min_growth_frac: 0.1
+  two_stage:
+    stage1:
+      oxygen_bound: -18.5
+      min_growth_frac: 1.0
+    stage2:
+      oxygen_bound: -5.0
+      min_growth_frac: 0.01

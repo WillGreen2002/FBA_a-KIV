@@ -1,0 +1,5 @@
+{
+  "status": "not_executed",
+  "reason": "Dependencies unavailable in offline environment",
+  "expected_entrypoint": "python run_pipeline.py --model iML1515 --run all"
+}

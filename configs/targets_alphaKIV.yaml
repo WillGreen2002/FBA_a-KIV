@@ -1,0 +1,8 @@
+target_synonyms:
+  - 3mob
+  - ketoisovalerate
+  - alpha-ketoisovalerate
+  - 2-ketoisovalerate
+  - 3-methyl-2-oxobutanoate
+forced_export_reaction_id: EX_3mob_e
+allow_proxy_export_if_missing: true

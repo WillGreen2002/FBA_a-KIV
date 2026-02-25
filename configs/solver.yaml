@@ -1,0 +1,5 @@
+solver_priority:
+  - glpk
+  - gurobi
+  - cplex
+milp_timeout_s: 300

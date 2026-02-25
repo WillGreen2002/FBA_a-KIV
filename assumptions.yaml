@@ -1,0 +1,7 @@
+assumptions:
+  lactate_racemate_default_ratio: [0.5, 0.5]
+  overexpression_proxy: bound_relaxation_or_min_flux
+  two_stage_static_approximation: true
+  heterologous_reactions_are_proxy_constructs: true
+  optknock_fallback_enabled: true
+  literature_missing_policy: mark_uncertain_and_continue
